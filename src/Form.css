@@ -1,0 +1,10 @@
+.form {
+  display: flex;
+  width: 1020px;
+  height: 650px;
+  max-height: 620px;
+  box-shadow: rgba(121, 121, 121, 0.103) 1px 1px 15px;
+  box-shadow: rgba(121, 121, 121, 0.103) -1px -1px 15px;
+  border-radius: 15px;
+  background-color: black;
+}

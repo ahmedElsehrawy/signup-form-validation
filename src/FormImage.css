@@ -1,0 +1,9 @@
+.formimage {
+  width: 510px;
+  background: url(./myImage.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
